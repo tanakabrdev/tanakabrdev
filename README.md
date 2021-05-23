@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! 👋
+
+💻My name is Tanaka, and i'm studying JavaScript, HTML and CSS.
+
+
 
 <!--
 **tanakabrdev/tanakabrdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
